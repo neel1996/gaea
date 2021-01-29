@@ -1,0 +1,1 @@
+java -javaagent:${PWD}/newrelic.jar -jar gaea.jar
